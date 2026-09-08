@@ -281,6 +281,7 @@ app.Run();
 มากกว่า 85.0%
 ```
 <img width="700" height="357" alt="image" src="https://github.com/user-attachments/assets/85bea1c9-51b9-4d72-83c7-5636147eec2b" />
+
 ```
 ระหว่าง 70.0% - 85.0%
 ```
