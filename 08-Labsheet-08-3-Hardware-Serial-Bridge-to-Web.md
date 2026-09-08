@@ -277,3 +277,17 @@ app.Run();
   - ถ้า `percentage` ระหว่าง 70.0% - 85.0% ให้ส่งค่า `"WARNING"`
   - ถ้า `percentage` ต่ำกว่า 70.0% ให้ส่งค่า `"NORMAL"`
 - บันทึกภาพหน้าจอเบราว์เซอร์ขณะหมุนไปที่ระดับต่างๆ เพื่อแสดงว่าฟิลด์ `alertLevel` ทำงานถูกต้อง
+```
+มากกว่า 85.0%
+```
+<img width="700" height="357" alt="image" src="https://github.com/user-attachments/assets/85bea1c9-51b9-4d72-83c7-5636147eec2b" />
+```
+ระหว่าง 70.0% - 85.0%
+```
+<img width="712" height="355" alt="image" src="https://github.com/user-attachments/assets/fb7277f3-f79c-4491-9225-be116290c704" />
+
+```
+ต่ำกว่า 70.0% 
+```
+<img width="703" height="352" alt="image" src="https://github.com/user-attachments/assets/69cb3179-7778-4853-b21e-745cdfc3aea4" />
+
