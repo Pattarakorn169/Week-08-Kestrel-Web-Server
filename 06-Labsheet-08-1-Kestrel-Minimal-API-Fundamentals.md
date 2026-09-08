@@ -178,6 +178,8 @@
 
  **หลักฐานการส่งงาน** บันทึกภาพหน้าจอเบราว์เซอร์ที่เปิดแสดงผล JSON จาก `/api/student` พร้อมโค้ดใน VS Code ลงในรายงานผลการทดลอง
 
+<img width="1916" height="187" alt="image" src="https://github.com/user-attachments/assets/9905d354-da33-4bc5-95cf-d3a078b1dbf8" />
+
 ---
 
 ## คำถามท้ายการทดลอง (Review Questions)
